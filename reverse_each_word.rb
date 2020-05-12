@@ -5,7 +5,7 @@ def reverse_each_word(string)
     var.reverse
     end
 end
-# 
+#
 # def reverse_each_word(string)
 #   arr = string.split(" ")
 #   reversed_strings = []
